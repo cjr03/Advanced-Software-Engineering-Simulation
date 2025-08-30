@@ -12,7 +12,7 @@
 - [Key Projects](#Key-Projects)
 - [Folder Structure](#Folder-Structure)
 - [Technologies Used](#Technologies-Used)
-- [Skills Demonstrated](#Skills--Demonstrated)
+- [Skills Demonstrated](#Skills-Demonstrated)
 
 ---
 
