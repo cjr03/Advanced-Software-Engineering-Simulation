@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-skyblue)
 
 ## Overview
-During this program, I completed a job simulation focused on solving technical challenges across Walmart teams. My work included implementing custom data structures, performing data processing with Python and SQLite, and designing UML/ERD diagrams for system architecture and database design.
+During this program, I completed a training focused on solving technical challenges across Walmart teams. My work included implementing custom data structures, performing data processing with Python and SQLite, and designing UML/ERD diagrams for system architecture and database design.
 
 ## Key Projects
 
