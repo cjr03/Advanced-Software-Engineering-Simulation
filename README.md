@@ -3,8 +3,29 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-skyblue)
 
+---
+
+## Table of Contents
+
+- [Overview](#Overview)
+- [Certificate](#Certificate)
+- [Key Projects](#Key-Projects)
+- [Folder Structure](#Folder-Structure)
+- [Technologies Used](#Technologies-Used)
+- [Skills Demonstrated](#Skills--Demonstrated)
+
+---
+
 ## Overview
 During this program, I completed a training focused on solving technical challenges across Walmart teams. My work included implementing custom data structures, performing data processing with Python and SQLite, and designing UML/ERD diagrams for system architecture and database design.
+
+---
+
+## Certificate
+
+![Walmart Advanced Software Engineering Certificate](Walmart_SWE_Certificate.png)
+
+---
 
 ## Key Projects
 
@@ -39,8 +60,9 @@ During this program, I completed a training focused on solving technical challen
   - Orders & fulfillment
 - Ensured normalization and clear relationships between entities.
 
-## Repository Structure
+---
 
+## Folder Structure
 ```plaintext
 .
 ├── PowerOfTwoHeap.js # Custom Power-of-Two Heap implementation (JavaScript)
@@ -49,10 +71,13 @@ During this program, I completed a training focused on solving technical challen
 ├── ERDDiagram.png # Entity relationship diagram (exported image)
 └── README.md # Project documentation
 ```
+---
 
 ## Technologies Used
 - **JavaScript (ES6)** → Heap implementation
 - **Python 3, SQLite3** → Data munging and database design
+
+---
 
 ## Skills Demonstrated
 - Algorithm design & custom data structures
