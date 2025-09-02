@@ -1,4 +1,4 @@
-# Walmart Advanced Software Engineer Training
+# Walmart Advanced Software Engineer Job Simulation
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-skyblue)
